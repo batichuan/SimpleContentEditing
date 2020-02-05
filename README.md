@@ -5,6 +5,7 @@ This project is lightweight dotnet program for editing simple content on client 
 The program is based on the WebBrowder control, through HTML and CSS to build a user interface, so as to achieve simple text content editing, and finally output docx format files.
 
 
-Donation
+Donation<br/>
 Paypal account:batichuan@outlook.com
 Alipay account(支付宝):batichuan@163.com
+  
