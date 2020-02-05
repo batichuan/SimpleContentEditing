@@ -5,5 +5,6 @@ The program is based on the WebBrowder control, through HTML and CSS to build a 
 
 <b>Donation:</b><br/>
 Paypal account:<b>Batichuan@outlook.com</b><br/>
-Alipay account(支付宝):<b>Batichuan@163.com</b><br/>
-  
+Alipay account:<b>Batichuan@163.com</b><br/>
+<b>支持一下:</b>
+支付宝:<b>Batichuan@163.com</b><br/>
