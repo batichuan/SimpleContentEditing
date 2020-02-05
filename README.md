@@ -14,6 +14,10 @@ Because of the work requirements, I need to edit a lot of word documents, which 
 
 This editor implements some basic functions related to text editing, such as editing(insert, modify, delete) paragraphs, editing pictures, editing tables, text bold, text underline.On this basis, you can realize more text editing functions.
 
+<br/>
+Program Requirements:<br/>
+microsoft OpenXmlFormat.dll
+
 
 
 
